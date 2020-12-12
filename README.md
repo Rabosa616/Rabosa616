@@ -4,8 +4,6 @@
 - 🏢 I work at a small company called [Erni](www.betterask.erni) help building and supporting the IoT World
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on IoT Projects
-- 
--  I’m on Twitter https://twitter.com/rabosa616
 - 📫 How to reach me: 
     - [Twitter](https://twitter.com/rabosa616) 🦜
     - [LinkedIn](https://www.linkedin.com/in/oscar-vaquero-vi%C3%B1es/) 👨💼
